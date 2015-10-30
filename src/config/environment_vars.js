@@ -19,6 +19,7 @@ vars = {
   AWS_SECRET_ACCESS_KEY: null,
   AWS_REGION: null,
   S3_BUCKET: null,
+  AWS_ENDPOINT:null,
 
   // Resize options
   RESIZE_PROCESS_ORIGINAL: true,
